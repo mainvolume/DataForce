@@ -7,3 +7,6 @@ Commands:
 ... = stop
 
 Have fun!
+
+License to source!
+
