@@ -10,3 +10,7 @@ Have fun!
 
 License to source!
 
+
+PERSONAL USE ONLY.
+
+
